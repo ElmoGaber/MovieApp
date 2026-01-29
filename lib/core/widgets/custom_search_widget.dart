@@ -13,6 +13,7 @@ class custom_search_widget extends StatelessWidget {
 
   final List<MovieModel> data;
   final Map<int, String> genresMap;
+  @override
   final Type runtimeType;
 
   @override

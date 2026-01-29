@@ -1,6 +1,5 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:movie_app/core/localDataHelper/localDataHelper.dart';
 import 'package:movie_app/core/model/moviemodel.dart';
